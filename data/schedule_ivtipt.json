@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": "event-1",
+      "title": "Электротехника и электроника",
+      "teacher": "Ключников С.Н.",
+      "teacherId": "teacher-1",
+      "room": "а. 709а",
+      "startTime": "08:00",
+      "endTime": "08:45",
+      "date": "2025-11-24",
+      "color": "#4CAF50",
+      "faculty": "ivtipt",
+      "studyForm": "fulltime",
+      "degree": "bachelor",
+      "course": "2",
+      "group": "21",
+      "type": "лаб",
+      "notes": ""
+    },
+    {
+      "id": "event-2",
+      "title": "Объектно-ориентированное программирование",
+      "teacher": "Шабаршина И.С.",
+      "teacherId": "teacher-2",
+      "room": "а. 609а",
+      "startTime": "09:50",
+      "endTime": "10:35",
+      "date": "2025-11-24",
+      "color": "#4CAF50",
+      "faculty": "ivtipt",
+      "studyForm": "fulltime",
+      "degree": "bachelor",
+      "course": "2",
+      "group": "21",
+      "type": "лаб",
+      "notes": ""
+    }
+  ],
+  "metadata": {
+    "faculty": "ivtipt",
+    "semester": "autumn",
+    "academic_year": "2025-2026",
+    "generated": "2025-11-23T19:45:43.501193"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "semester": {
+    "start": "2025-09-02",
+    "end": "2025-12-30",
+    "weekType": {
+      "first": "upper",
+      "startDate": "2025-09-01"
+    }
+  },
+  "schedule": [
+    {
+      "id": "2-27-mon-placeholder",
+      "title": "Расписание в разработке / Schedule in development",
+      "teacher": "Для загрузки расписания обратитесь к администратору",
+      "teacherId": "admin",
+      "room": "—",
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "dayOfWeek": 1,
+      "weekType": "both",
+      "color": "#9E9E9E",
+      "faculty": "ivtipt",
+      "studyForm": "fulltime",
+      "degree": "bachelor",
+      "course": "2",
+      "group": "27",
+      "type": "информация",
+      "subgroup": null,
+      "notes": "Это расписание-заглушка. Пожалуйста, загрузите актуальное расписание для вашей группы."
+    }
+  ]
+}
