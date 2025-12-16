@@ -69,7 +69,7 @@
       "notes": ""
     },
     {
-      "id": "2-26-tue-1",
+      "id": "2-26-tue-1-lower",
       "title": "Математика",
       "teacher": "Каплицкий В.М.",
       "teacherId": "kalitsky-vm",
@@ -89,7 +89,7 @@
       "notes": "Только на нижней неделе"
     },
     {
-      "id": "2-26-tue-2",
+      "id": "2-26-tue-2-lower",
       "title": "Математика",
       "teacher": "Каплицкий В.М.",
       "teacherId": "kalitsky-vm",
@@ -109,7 +109,7 @@
       "notes": "Только на нижней неделе"
     },
     {
-      "id": "2-26-tue-3",
+      "id": "2-26-tue-3-both",
       "title": "Безопасность жизнедеятельности",
       "teacher": "Вассель С.С.",
       "teacherId": "vassel-ss",
@@ -126,7 +126,7 @@
       "group": "26",
       "type": "практика",
       "subgroup": null,
-      "notes": ""
+      "notes": "На обеих неделях"
     },
     {
       "id": "2-26-wed-1",
